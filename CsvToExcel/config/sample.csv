@@ -1,0 +1,235 @@
+Formatted ID,Name,Work Product,Release,Iteration,Scheduled State,Estimate,To Do,Actuals,Time Spent,Owner
+TA1875987,RE: QC #559627 | QLAB03 | RAP |  On User Preferences  Page  save changes for language and market are not getting saved | Getting error up,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4.5,0,4.5,0,"Lokanadham, Modhugapalyam"
+TA1876958,working on WLS 12.2.1.3 upgradtion isssue for toggleing to apple,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,"Ashok, Eluri"
+TA1876960,Made changes in the in JSP files and deployed in WLS and tested,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,"Ashok, Eluri"
+TA1876962,checking the fedlet floder files and done testing in local WLS,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,"Ashok, Eluri"
+TA1876973,Defect #560270 - incident #267970 > 68937 - Retail - RAP Activation are failing during payment in ePay,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,"Ashok, Eluri"
+TA1876975,QC #559627 | QLAB03 | RAP |  On User Preferences  Page  save changes for language and market are not getting saved | Getting error up,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,"Ashok, Eluri"
+TA1876982,support the EQRM team for issues chcking users and resolved the issues,US570371: MFA for Watson User Management,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Ashok, Eluri"
+TA1884344,Support for the TMAG: Need More Watson Accounts For Performance Testing,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Ashok, Eluri"
+TA1889913,Triage defect 561747,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Durgaraju Gayathri
+TA1889917,Analyse and fix NoclassDefinition error in TAP prod deployment,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Durgaraju Gayathri
+TA1889921,Understanding SAML protocol,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Durgaraju Gayathri
+TA1890149,checking logs related to authrequest null issue,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Durgaraju Gayathri
+TA1902522,Questionnaire of RAP : discussion,US570365: RAP JAVA Vulnerabilities Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Lokanadham, Modhugapalyam"
+TA1902592,TAP SAML Certificate Renewal: discussion-05/20,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Lokanadham, Modhugapalyam"
+TA1902595,SAML Cerificates-Discussion-5/17,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,"Lokanadham, Modhugapalyam"
+TA1902597,PCI compliance for Watson Admin tool,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Lokanadham, Modhugapalyam"
+TA1902603,NOD : TAP B&M Bundle #1867-5/8,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Lokanadham, Modhugapalyam"
+TA1902608,Watson Admin tool provide Active users,US570371: MFA for Watson User Management,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Lokanadham, Modhugapalyam"
+TA1902636,E2E Retail Status - 5/09 - TPR Provisioning,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Lokanadham, Modhugapalyam"
+TA1902640,TPR Provisioning end to end testing support,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Lokanadham, Modhugapalyam"
+TA1902641,DR# 23054799 - Waiting Support,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Lokanadham, Modhugapalyam"
+TA1902645,NOD : TAP B&M Bundle #1867 : War file version validation,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Lokanadham, Modhugapalyam"
+TA1902650,TAP build failed,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Lokanadham, Modhugapalyam"
+TA1902652,TAP SAML Certificate Renewal - Round 2: Discussion,US570334: TAP Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Lokanadham, Modhugapalyam"
+TA1902656,RAP Test Case User preferences - Save changes : issue,US570365: RAP JAVA Vulnerabilities Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Lokanadham, Modhugapalyam"
+TA1902657,Removing code from QLAB03,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,"Lokanadham, Modhugapalyam"
+TA1902663,ENTERPRISE.2018_ENTERPRISE_TEST - Defect #560270 - incident #267970 > 68937 - Retail - RAP Activation are failing during payment in ePay,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Lokanadham, Modhugapalyam"
+TA1902730,RE: QC #559627 | QLAB03 | RAP |  On User Preferences  Page  save changes for language and market are not getting saved | Getting error up,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Lokanadham, Modhugapalyam"
+TA1902735,Need help!- RAP Test Case User preferences - Save changes,US570335: EQM Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Lokanadham, Modhugapalyam"
+TA1764086,New ECP testing for datapass with or w/o autopay,US545362: Testing with New ECP for all flows,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Shivangi Agrawal
+TA1764087,New ECP testing for change msisdn with or w/o autopay,US545362: Testing with New ECP for all flows,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Shivangi Agrawal
+TA1764088,New ECP testing for bill pay with or w/o autopay,US545362: Testing with New ECP for all flows,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Shivangi Agrawal
+TA1764124,Automation updates for manual restore w autopay-1,US545362: Testing with New ECP for all flows,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Ritika Pandhi
+TA1764128,Automation updates for auto restore with autopay-1,US545362: Testing with New ECP for all flows,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Ritika Pandhi
+TA1764131,Automation updates for auto restore w/o autopay-1,US545362: Testing with New ECP for all flows,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Ritika Pandhi
+TA1764336,Run the complete suite for ecp,US545362: Testing with New ECP for all flows,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Ritika Pandhi
+TA1835116,POC for create swagger on Recite,US558672: CCS: customerWallet swagger creation,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,,0,12,0,James Lee
+TA1867349,Leverage Negative file check - Exp app,US556005: CCS: PAYMENT APP: retrieveTransactionDetails xAPI changes,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,,0,"Sudheer Kumar, Souri"
+TA1867355,Create Wallet Api Request Object,US576982: [Unfinished] CCS: PAYMENT APP : customerWallet experience API,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,,0,"Sudheer Kumar, Souri"
+TA1867357,Create Wallet Api response Object,US576982: [Unfinished] CCS: PAYMENT APP : customerWallet experience API,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,,0,"Sudheer Kumar, Souri"
+TA1867360,"Integarte - Negative File , CHUB and SPI Search API",US576982: [Unfinished] CCS: PAYMENT APP : customerWallet experience API,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,,0,"Sudheer Kumar, Souri"
+TA1867501,TestCase Design,US568758: TEST: Change parameter name in InsertHandoff,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Abhishek Mittal
+TA1867503,DevTest Execution,US568758: TEST: Change parameter name in InsertHandoff,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Ritika Pandhi
+TA1869820,Create new checkbox for default payment method,US555419: CCS: PAYMENT APP UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Deepak C
+TA1871116,TestCase Design,US556005: CCS: PAYMENT APP: retrieveTransactionDetails xAPI changes,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Ritika Pandhi
+TA1871118,TestCase Design,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Ritika Pandhi
+TA1871492,Hygieia DevOps Dashboard - Scott,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Scott Halsey
+TA1871525,Prod Support General - Scott,US567991: Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Scott Halsey
+TA1871526,PaymentApp QLAB02 True-Up - Scott,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,Scott Halsey
+TA1871527,AutoPay QLAB02 True-Up - Scott,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,Scott Halsey
+TA1871528,Payment App QLAB07 creation - Scott,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Scott Halsey
+TA1871534,CIO Dashboard updates PaymentApp - Scott,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Scott Halsey
+TA1874102,Defect Triage #560689,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Ritika Pandhi
+TA1874178,Testcase Design to show customer's payment methods are shown in the order returned by customerWallet xAPI,US555287: CCS: PAYMENT APP UI: MOF Display for payment methods in wallet,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,"Ainampudi, Aruna"
+TA1874190,Testcase Design - Set New Default payment method,US555419: CCS: PAYMENT APP UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,5,0,"Ainampudi, Aruna"
+TA1874439,Adding Nickname in the MOF,US555287: CCS: PAYMENT APP UI: MOF Display for payment methods in wallet,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,4,0,Rajkumar ChokanadarPauldurai
+TA1874440,Adding Default method in MOF,US555287: CCS: PAYMENT APP UI: MOF Display for payment methods in wallet,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,4,0,Rajkumar ChokanadarPauldurai
+TA1874441,Displaying all the MOF data,US555287: CCS: PAYMENT APP UI: MOF Display for payment methods in wallet,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,Rajkumar ChokanadarPauldurai
+TA1874442,Disabled INValid data,US555287: CCS: PAYMENT APP UI: MOF Display for payment methods in wallet,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Rajkumar ChokanadarPauldurai
+TA1874443,Hide blocked data,US555287: CCS: PAYMENT APP UI: MOF Display for payment methods in wallet,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Rajkumar ChokanadarPauldurai
+TA1874606,Create new component nickname,US569542: CCS: AUTOPAY UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Mamatha, Patthipati"
+TA1874607,include nickname component in new electronic check tab,US569542: CCS: AUTOPAY UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Mamatha, Patthipati"
+TA1874608,Include nick name component in new card tab,US569542: CCS: AUTOPAY UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Mamatha, Patthipati"
+TA1874609,send the nick name value in mpi create service,US569542: CCS: AUTOPAY UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Mamatha, Patthipati"
+TA1874880,Analysis/understanding of verify payment method API,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Rakesh Yadav4
+TA1874881,Create request/response Modal classes of DPS verify payment method API,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Rakesh Yadav4
+TA1874882,Check/Verify DPS verify payment method API,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,Rakesh Yadav4
+TA1874883,Create Service/Business layer to consume DPS verify payment method API.,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Rakesh Yadav4
+TA1874884,Process verify payment method API response to apply business logic,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Rakesh Yadav4
+TA1874885,Prepaire input request data to call DPS verify payment method API.,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Rakesh Yadav4
+TA1874886,Impliment exception handling code to handle exceptions.,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Rakesh Yadav4
+TA1874887,Impliment logging functionalty to log request/response.,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Rakesh Yadav4
+TA1874889,Initial verification of  Payment method API With Virtual service,US558880: CCS: PAYMENT APP - Paymethod verification - SPI-verifyPaymentMethod,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Rakesh Yadav4
+TA1875429,Run the Automation for NR flow,US567992: Payment App Deployment - Angular upgrade,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Abhishek Mittal
+TA1875430,Compare the Processpayment Sedona request with production,US567992: Payment App Deployment - Angular upgrade,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Abhishek Mittal
+TA1875431,Created Test Cases for Customer Wallet API -Airtime,US576982: [Unfinished] CCS: PAYMENT APP : customerWallet experience API,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,Abhishek Mittal
+TA1875440,Created Test Cases for Customer Wallet API -Sedona,US576982: [Unfinished] CCS: PAYMENT APP : customerWallet experience API,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Abhishek Mittal
+TA1875486,Test Case Creation,US562896: CCS: New UI component for bank account verification,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Abhishek Mittal
+TA1876072,Test Cases - US551269 -CCS: Invoke CHUB CustomerSummarySearch API,US576982: [Unfinished] CCS: PAYMENT APP : customerWallet experience API,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Shivangi Agrawal
+TA1876074,Test Cases - US567854 -CCS:  PAYMENT APP: Invoke StoredPaymentsInstruments with msisdn,US576982: [Unfinished] CCS: PAYMENT APP : customerWallet experience API,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Abhishek Mittal
+TA1876597,Create component for wallet-autopay-savepay checkbox with save payment and default payment method,US569550: CCS: AUTOPAY UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Mamatha, Patthipati"
+TA1876598,Enable the default payment check box when user selected the savepayment,US569550: CCS: AUTOPAY UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Mamatha, Patthipati"
+TA1876599,Disable and uncheck the default payment method check box when user unselects the save payment check box,US569550: CCS: AUTOPAY UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Mamatha, Patthipati"
+TA1876996,create swagger file attributes using Recite tool based on Excel data sheet,US558672: CCS: customerWallet swagger creation,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,,0,12,0,James Lee
+TA1876999,merge customerWallet swagger file into payment experience api swagger file,US558672: CCS: customerWallet swagger creation,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,,0,James Lee
+TA1877014,update swagger attribute description,US558672: CCS: customerWallet swagger creation,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,12,0,,0,James Lee
+TA1878130,Create account number component with validations needed,US562896: CCS: New UI component for bank account verification,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Durgaraju Gayathri
+TA1878131,Setting up latest angular payment app code,US562896: CCS: New UI component for bank account verification,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Durgaraju Gayathri
+TA1878152,Create Nickname component with only nickname input field,US562198: CCS: PAYMENT APP UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Deepak C
+TA1878153,Added Nickname component in New Electronic check component,US562198: CCS: PAYMENT APP UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Deepak C
+TA1878154,Applied Nickname component in New card component,US562198: CCS: PAYMENT APP UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Deepak C
+TA1878158,Enabled Nickname Component based on dormancy Flag in new card component,US562198: CCS: PAYMENT APP UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Deepak C
+TA1878161,Enabled Nickname Component based on dormancy Flag in Electronic Check component,US562198: CCS: PAYMENT APP UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Deepak C
+TA1878164,Nickname field values passed by event emitter to new parent components,US562198: CCS: PAYMENT APP UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Deepak C
+TA1878172,Added New Checkbox for Default payment method in autopay-savepay component,US555419: CCS: PAYMENT APP UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Deepak C
+TA1878173,make default checkbox enable after savepay payment get selected,US555419: CCS: PAYMENT APP UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Deepak C
+TA1878175,Applied Dormancy Flag for default  checkbox in New card and Electronic check components,US555419: CCS: PAYMENT APP UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Deepak C
+TA1878176,Created new Wallet autopay savepay component with default payment method checkbox,US555419: CCS: PAYMENT APP UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Deepak C
+TA1878181,Added default payment method checkbox in Wallet Method on file,US555419: CCS: PAYMENT APP UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Deepak C
+TA1878182,enable the default payment method when select default stored payment methods,US555419: CCS: PAYMENT APP UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,Deepak C
+TA1878183,Select default payment method get checked while loading,US555419: CCS: PAYMENT APP UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Deepak C
+TA1878214,Created new directive for cardnumber masking and applied in cardnumber component,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Deepak C
+TA1878353,Prod Support and Deployment - Naga,US567991: Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Naga Venkata
+TA1878356,Enable Fortify - AppSecScan for NPE,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Naga Venkata
+TA1878500,Applied default payment method checkbox,US555320: CCS: PAYMENT APP UI: payment method selection from MOF,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Deepak C
+TA1878502,Added condition to selected as default  when default payment indicator true,US555320: CCS: PAYMENT APP UI: payment method selection from MOF,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Deepak C
+TA1878503,added function for select other payment method change the checkbox based on indicator,US555320: CCS: PAYMENT APP UI: payment method selection from MOF,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Deepak C
+TA1879969,Production support - post deployment,US567991: Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,,0,"Sudheer Kumar, Souri"
+TA1880171,Remove - V1 code from Exp app,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,,0,"Sudheer Kumar, Souri"
+TA1880173,Junits fixes - After Removing v1 code from exp app,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,,0,"Sudheer Kumar, Souri"
+TA1880178,DevTest,US576982: [Unfinished] CCS: PAYMENT APP : customerWallet experience API,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,,0,"Sudheer Kumar, Souri"
+TA1881550,"Disabled the ""Save this payment method for future transactions."" Checkbox",US555420: PAYMENT APP UI: Max methods reached - new pay method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Deepak C
+TA1881551,"Display an alert just below this disabled checkbox that reads ""Max number of payment methods has been reached.",US555420: PAYMENT APP UI: Max methods reached - new pay method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Deepak C
+TA1881552,"Disabled the ""Make this the default payment method"" checkbox",US555420: PAYMENT APP UI: Max methods reached - new pay method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Deepak C
+TA1881570,Test case creation,US569550: CCS: AUTOPAY UI: Set New Default payment method,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,4,0,Abhishek K
+TA1882315,Automation updates for manual restore without autopay-1,US545362: Testing with New ECP for all flows,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Ritika Pandhi
+TA1882939,swagger changes,US558672: CCS: customerWallet swagger creation,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,,0,"Sudheer Kumar, Souri"
+TA1884668,Understanding,US569542: CCS: AUTOPAY UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Abhishek K
+TA1884669,Test Case Creation,US569542: CCS: AUTOPAY UI: Nickname for pay methods,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Abhishek K
+TA1885396,added Edit and Delete link,US555287: CCS: PAYMENT APP UI: MOF Display for payment methods in wallet,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Rajkumar ChokanadarPauldurai
+TA1885400,"Integrating the values nickName,walletEdit,defaultPay",US555287: CCS: PAYMENT APP UI: MOF Display for payment methods in wallet,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Rajkumar ChokanadarPauldurai
+TA1885703,Checked Undefined for card and bank,DE240018: QLAB02 - Javascript Error on UI Console on 2.0,Payment App - 5/22/19,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,Rajkumar ChokanadarPauldurai
+TA1885742,removed validation for NR,DE238372: QLAB02 - NR Return - Close button not generating Receipt,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Rajkumar ChokanadarPauldurai
+TA1885776,NR Refund and Refund flow test for Receipt generation,US567992: Payment App Deployment - Angular upgrade,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,"Ainampudi, Aruna"
+TA1885780,NR Close button on home page test,US567992: Payment App Deployment - Angular upgrade,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,"Ainampudi, Aruna"
+TA1885782,NR close and continue button functionality test on the confirmation page,US567992: Payment App Deployment - Angular upgrade,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,"Ainampudi, Aruna"
+TA1885805,Airtime flow Manual testing for release,US567992: Payment App Deployment - Angular upgrade,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Ainampudi, Aruna"
+TA1885853,Javascript error on Console Test,US567992: Payment App Deployment - Angular upgrade,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Ainampudi, Aruna"
+TA1885889,QLAB07 Env test for Airtime - Integration and through Postman,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Ainampudi, Aruna"
+TA1885895,QLAB07 Post toggle fail issue,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Ainampudi, Aruna"
+TA1885906,pre-deployment test on QLAB06 for JS  with Sudhanshu and Scott,US567992: Payment App Deployment - Angular upgrade,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Ainampudi, Aruna"
+TA1888044,allowWalletUsage = false. Showed message,US555332: CCS: PAYMENT APP UI: Customer ineligible for wallet,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Rajkumar ChokanadarPauldurai
+TA1888734,dev test the bank component to check encryption,US562896: CCS: New UI component for bank account verification,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Durgaraju Gayathri
+TA1889905,Triage 561363 payment defect,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,3,0,Durgaraju Gayathri
+TA1890048,Checking autopay dormancy flag input to UI,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Durgaraju Gayathri
+TA1890581,Code merge for autopay app develop branch to master to sync with production code,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Mamatha, Patthipati"
+TA1890585,Deleting the release branches foe autopayui and autopayapp which are not used,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,"Mamatha, Patthipati"
+TA1896471,Testcase Design for payment method selection from MOF with Autopay,US555320: CCS: PAYMENT APP UI: payment method selection from MOF,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,2,0,"Ainampudi, Aruna"
+TA1897526,Run the Automation for sedona flows,US567992: Payment App Deployment - Angular upgrade,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Abhishek Mittal
+TA1897539,QLab03 issue for toggle data for QC defect stremline flow,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Abhishek Mittal
+TA1897548,Created virtual for SearchstoredInstrument V4 ApiI,US576982: [Unfinished] CCS: PAYMENT APP : customerWallet experience API,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Abhishek Mittal
+TA1897936,PaymentApp - Angular 7 Prod Deployment and Support - Scott,US567991: Production support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,10,0,10,0,Scott Halsey
+TA1897944,Pristine Environment - Payment App updates - Scott,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Scott Halsey
+TA1897946,AutoPay - Pristine Environment - Scott,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Scott Halsey
+TA1897948,"PaymentApp - Fortify, QCP and Sonar enablement/verification",US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Scott Halsey
+TA1897949,"AutoPay - Fortify, QCP and Sonar enablement/verification",US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,Scott Halsey
+TA1898002,Shared Service Common logging meeting,US567990: UnPlanned work,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,Scott Halsey
+TA1900025,set up paymentapp v1,US568740: QLAB01 Setup,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,Rajkumar ChokanadarPauldurai
+TA1900026,update the proxy and get old proxy file,US568740: QLAB01 Setup,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,Rajkumar ChokanadarPauldurai
+TA1900028,Deployment,US568740: QLAB01 Setup,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Rajkumar ChokanadarPauldurai
+TA1833450,Fix Sonarqube issues,US550787: [Continued] Fix  Pier ticket : 22744566,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,6,0,"Nathula, Sravani"
+TA1833451,Testing after fix,US550787: [Continued] Fix  Pier ticket : 22744566,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Nathula, Sravani"
+TA1833470,testing after fix,US550787: [Continued] Fix  Pier ticket : 22744566,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,,0,Shiney K
+TA1833473,test cases adding to automation suite,US550787: [Continued] Fix  Pier ticket : 22744566,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,,0,Shiney K
+TA1856920,Remove 404 retry for Chub service - Authenticate User,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,"Nair, Dilip Sasidharan"
+TA1856923,Implement Retry on Pel connection timeout,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,"Nair, Dilip Sasidharan"
+TA1863361,Production Support - Sravani,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,8,0,8,0,"Nathula, Sravani"
+TA1863795,Reproduce those issue,DE226058: Intermittent: BAD request error issue: Sometimes can able to see two interactionIDs for the same request in splunk logs.,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Shiney K
+TA1863870,Testing after fix,DE226058: Intermittent: BAD request error issue: Sometimes can able to see two interactionIDs for the same request in splunk logs.,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Shiney K
+TA1863882,Testing /env for password masking in domain ilab02 and ilab03,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Shiney K
+TA1863884,Testing /env in qlab02 qlab03 and pit env,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Shiney K
+TA1863899,create Virtual service for 404 and timeout scenario for dealer info and authenticate user services,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,4,0,Shiney K
+TA1863912,"create virtual service for genarateorderid, create order and get order status",US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Shiney K
+TA1863913,testing after fix,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Shiney K
+TA1863916,adding test data to automation suite,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Shiney K
+TA1866723,Analyze and compare Redis features to Memcached,US568128: Research on Redis and Memcached,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,"Nair, Dilip Sasidharan"
+TA1867019,Dev - Reproduce the issue - Sravani,DE226058: Intermittent: BAD request error issue: Sometimes can able to see two interactionIDs for the same request in splunk logs.,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,,0,"Nathula, Sravani"
+TA1867024,Fix the issue,DE226058: Intermittent: BAD request error issue: Sometimes can able to see two interactionIDs for the same request in splunk logs.,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,,0,"Nathula, Sravani"
+TA1867027,Testing after fix - Sravani,DE226058: Intermittent: BAD request error issue: Sometimes can able to see two interactionIDs for the same request in splunk logs.,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,,0,"Nathula, Sravani"
+TA1867029,Junit and Sonar fixes if needed,DE226058: Intermittent: BAD request error issue: Sometimes can able to see two interactionIDs for the same request in splunk logs.,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,,0,"Nathula, Sravani"
+TA1867042,Unplanned meetings - Sravani,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Nathula, Sravani"
+TA1867651,Fix code review comments,US550787: [Continued] Fix  Pier ticket : 22744566,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Nathula, Sravani"
+TA1869354,NPE support,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,8,0,8,0,"Nathula, Sravani"
+TA1869572,Code reviews,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,8,0,8,0,"Nair, Dilip Sasidharan"
+TA1871213,Update query for dashboard,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Nathula, Sravani"
+TA1871375,Prod support - ilai,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,,0,8,0,Ilaiyaraja Rajamohan
+TA1871377,NPE Support  - ilai,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,,0,8,0,Ilaiyaraja Rajamohan
+TA1871381,TAP discussion & deployment,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,,0,8,0,Ilaiyaraja Rajamohan
+TA1871475,Shared Service Logging - Scott,US568133: Demo Preparation - Common Logging,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Scott Halsey
+TA1871478,Prod Support General - Scott,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,7.5,0,7.5,0,Scott Halsey
+TA1871481,Pristine Environment - Scott,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Scott Halsey
+TA1871490,Hygieia DevOps Dashboard - Scott,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Scott Halsey
+TA1871513,Production Splunk Dashboard update - Scott,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Scott Halsey
+TA1871516,Performance Environment Dashboard - Scott,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,Scott Halsey
+TA1872389,Added 2 more cases for without iccid and tested,US550787: [Continued] Fix  Pier ticket : 22744566,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Kapoor, Anu"
+TA1872395,Manual Testing of Pin/Key masking in qlab02 qlab03 and pit env,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Kapoor, Anu"
+TA1872396,Regression Testing in qlab02 qlab03,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Kapoor, Anu"
+TA1874405,Junit and Coverge fix,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Nair, Dilip Sasidharan"
+TA1874406,Unit test,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Nair, Dilip Sasidharan"
+TA1875749,Review Swagger for Test api to be deployed in Apigee,US566744: POC: TAAP Token Validation,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Nair, Dilip Sasidharan"
+TA1875750,Use Groovy tool to deploy and test  sample Api using Swagger upload,US566744: POC: TAAP Token Validation,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Nair, Dilip Sasidharan"
+TA1877916,Understand the Defect and Recreate in local,DE238524: AccessToken Failure Scenario- Log issue,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,"Jetty, Amith"
+TA1877918,Analyse the defect,DE238524: AccessToken Failure Scenario- Log issue,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Jetty, Amith"
+TA1877920,Make code change and test locally,DE238524: AccessToken Failure Scenario- Log issue,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,"Jetty, Amith"
+TA1877923,Review of Pel-Logging Document,US568133: Demo Preparation - Common Logging,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Jetty, Amith"
+TA1877926,Update the document on review comments,US568133: Demo Preparation - Common Logging,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Jetty, Amith"
+TA1877928,Replacement of pel-logger to Sharedservices in code,US568133: Demo Preparation - Common Logging,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Jetty, Amith"
+TA1877932,Miscellaneous changes for non-spring logging module,US568133: Demo Preparation - Common Logging,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Jetty, Amith"
+TA1877933,working for spring logging module,US568133: Demo Preparation - Common Logging,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Jetty, Amith"
+TA1877936,Presenation and demo meetings,US568133: Demo Preparation - Common Logging,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Jetty, Amith"
+TA1877969,Fix statusCode for serviceStatus 102 and subStatusCode 102,US550787: [Continued] Fix  Pier ticket : 22744566,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Nathula, Sravani"
+TA1878352,Prod Support for Failover and Patchup- Naga,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,Naga Venkata
+TA1880403,Implementing the masking to secure values.,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6.5,0,6.5,0,Jyoti Sinha
+TA1880408,Updated vault keys as per changes made in application to secure values for all instances,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Jyoti Sinha
+TA1880411,verify the env and logs for secure data masking.,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Jyoti Sinha
+TA1880446,Testing all the environment where masking changes implemented.,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4.5,0,4.5,0,Jyoti Sinha
+TA1880461,Joined Polaris failover bridge call and track the payment app and Brooklyn App Dynamics,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Jyoti Sinha
+TA1880463,Tracking the production environment for the  changes done for DealerInfo by APIGEE team.,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Jyoti Sinha
+TA1880464,Handled OTHER ERROR scenario in validate and security token service.,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Jyoti Sinha
+TA1882750,Debugging ActivateImpl in local,DE238524: AccessToken Failure Scenario- Log issue,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,1,0,1,0,"Jetty, Amith"
+TA1882796,Testing after statusCode fix,US550787: [Continued] Fix  Pier ticket : 22744566,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Nathula, Sravani"
+TA1883955,Manual Testing of Pin/Key masking in qlab02 qlab03 and pit env,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Capoor, Nehaa"
+TA1883960,Regression Testing in qlab02 qlab03,US566729: SCCS Security Updates,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,"Capoor, Nehaa"
+TA1883965,Added 2 more cases for with iccid and tested,US550787: [Continued] Fix  Pier ticket : 22744566,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Capoor, Nehaa"
+TA1883975,Worked on PROD ISSUE for DealerInfo Service,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Capoor, Nehaa"
+TA1883983,Testing the retry mechanism of DealerInfo and CustomerAuth,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Capoor, Nehaa"
+TA1884160,Analysis production defect for dealerInfo Service down,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,Jyoti Sinha
+TA1884161,1. Worked on encryption api and added a sample class to debug code.,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Jyoti Sinha
+TA1884164,Sonar Code coverage and  issue fixes.,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,Jyoti Sinha
+TA1884165,"Testing brooklyn service for improvement,",US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3.5,0,3.5,0,Jyoti Sinha
+TA1884166,Analysis production test url RSP service issue and followup,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,Jyoti Sinha
+TA1885392,Tracking QC defects,US568105: Production Support,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,3,0,3,0,"Nathula, Sravani"
+TA1885600,Merging both approaches into single version,US568133: Demo Preparation - Common Logging,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Jetty, Amith"
+TA1885620,Follow up on Approach,US568152: Env Update for Property Refresh for multiple instances for PEL,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Jetty, Amith"
+TA1885621,Follow up on AWS access authentication,US568152: Env Update for Property Refresh for multiple instances for PEL,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Jetty, Amith"
+TA1885638,Follow up on AWS kafka access,US568152: Env Update for Property Refresh for multiple instances for PEL,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Jetty, Amith"
+TA1885639,Modify logging for Rest services to return 500 status code uniformly on Pel timeout,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,6,0,6,0,"Nair, Dilip Sasidharan"
+TA1885641,Address sonar issues,US566738: Modify Retry Functionality for Rest Services,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Nair, Dilip Sasidharan"
+TA1885650,Kafka cluster creation,US568152: Env Update for Property Refresh for multiple instances for PEL,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Jetty, Amith"
+TA1885655,AWS CLI setup,US568152: Env Update for Property Refresh for multiple instances for PEL,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,"Jetty, Amith"
+TA1885659,Analysis on integration of Kafka to java code,US568152: Env Update for Property Refresh for multiple instances for PEL,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Jetty, Amith"
+TA1885664,Meetings,US568109: Unplanned work in this sprint,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,4,0,4,0,"Nair, Dilip Sasidharan"
+TA1893758,Install Redis and work on examples with updating local Server using java,US568128: Research on Redis and Memcached,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,5,0,5,0,"Nair, Dilip Sasidharan"
+TA1908144,Document Review,US576219: [Unfinished] Testing Brooklyn support document,,TMO Sprint 10 2019: 5/8 - 5/21,Completed,2,0,2,0,Raj P. Henry
